@@ -8,6 +8,9 @@
 
 # 项目辅助系统的来源和意义
 ![流程管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/流程管理模块.png)
+![仓库管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/仓库管理模块.jpg)
+![结算管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/结算管理模块.jpg)
+![数据采集模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/数据采集模块.jpg)
 
 # 仓库管理系统的研究现状
 
