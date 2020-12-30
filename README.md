@@ -12,6 +12,9 @@
 # 仓库管理系统的研究现状
 
 # 项目管理辅助系统的功能
+该系统目前包含了五大模块，流程管理模块
+![表格打印模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/表格打印模块.png)
+![流程管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/流程管理模块.png)
 ![流程管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/流程管理模块.png)
 ![仓库管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/仓库管理模块.jpg)
 ![结算管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/结算管理模块.jpg)
