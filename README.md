@@ -7,15 +7,15 @@
 该系统目前处于个人测试开发阶段，后续可更具工作需要进行改变设计。
 
 # 项目辅助系统的来源和意义
-![流程管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/流程管理模块.png)
-![仓库管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/仓库管理模块.jpg)
-![结算管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/结算管理模块.jpg)
-![数据采集模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/数据采集模块.jpg)
+本系统根据作者实际工作中遇到的问题，逐一进行尝试与解决，目的是提高个人魅力:blush:
 
 # 仓库管理系统的研究现状
 
 # 项目管理辅助系统的功能
-
+![流程管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/流程管理模块.png)
+![仓库管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/仓库管理模块.jpg)
+![结算管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/结算管理模块.jpg)
+![数据采集模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/数据采集模块.jpg)
 # 安装使用说明
 
 # 致谢
