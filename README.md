@@ -9,11 +9,11 @@
 # 项目辅助系统的来源和意义
 ![流程管理模块](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/流程管理模块.png)
 
-#仓库管理系统的研究现状
+# 仓库管理系统的研究现状
 
-#项目管理辅助系统的功能
+# 项目管理辅助系统的功能
 
-#安装使用说明
+# 安装使用说明
 
-#致谢
+# 致谢
 
