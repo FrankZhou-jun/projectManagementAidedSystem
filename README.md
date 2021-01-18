@@ -28,7 +28,7 @@ projectManagementAidedSystem
 4. 零星材料结算出现混乱，容易出现重复结算。
 5. 目前材料收料单，材料领料单众多，但是数据无法高效快速的进行统计利用。
 6. 人员素质低，如图所示为领料单的表示方法，工字钢表示出现如下情况:
-<img src="https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误2.JPG" width="300" height="300" alt="错误1"/><br/>
+<br><img src="https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误2.JPG" width="300" height="300" alt="错误1"/><br/>
 如果每次统计的数据不准确,创库管理信息将无法有效利用,这样下去成本该如何控制？,在这个竞争日益激烈的时代，这样下去，未来在何方:blush:。
 
 
