@@ -33,9 +33,9 @@ projectManagementAidedSystem
 ![错误3](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误3.JPG)
 ![仓库规格表示不唯一](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/仓库规格表示不唯一.jpg)
 当作者在库中查找给钢板型号时，竟然没有找到，可能有如下原因:
-1. 交接单出现错误，未及时纠正。
-2. 统计人员出现错误，录入信息出现错误。
-3. 领料单出现错误。
+（1）. 交接单出现错误，未及时纠正。
+（2）. 统计人员出现错误，录入信息出现错误。
+（3）. 领料单出现错误。
 如果每次统计的数据不准确,创库管理信息将无法有效利用,在这个数据为王的时代，这样下去成本该如何控制？
 
 
