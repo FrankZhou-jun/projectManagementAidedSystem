@@ -29,7 +29,8 @@ projectManagementAidedSystem
 5. 目前材料收料单，材料领料单众多，但是数据无法高效快速的进行统计利用。
 6. 人员素质低，如图所示为领料单的表示方法，工字钢表示出现如下情况:
 ![错误2](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误2.JPG)
-如果每次统计的数据不准确,创库管理信息将无法有效利用,这样下去成本该如何控制？,在这个竞争日益激烈的时代，这样下去，未来在何方:bluse。
+如果每次统计的数据不准确,创库管理信息将无法有效利用,这样下去成本该如何控制？,在这个竞争日益激烈的时代，这样下去，未来在何方:blush。
+<img src="https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误2.JPG" width="200" height="200" alt="错误1"/><br/>
 
 # 项目管理辅助系统功能模块设计
 该系统目前包含了五大模块，表格打印模块，流程管理模块，仓库管理模块，监控管理，结算管理模块，数据采集模块。如果不能显示图片，需要一定的上网技巧哟。
