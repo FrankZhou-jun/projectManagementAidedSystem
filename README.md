@@ -28,9 +28,10 @@ projectManagementAidedSystem
 4. 零星材料结算出现混乱，容易出现重复结算。
 5. 目前材料收料单，材料领料单众多，但是数据无法高效快速的进行统计利用。
 6. 人员素质低，如图所示为领料单的表示方法，工字钢表示出现如下情况:
-<br><img src="https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误2.JPG" width="300" height="300" alt="错误1"/><br/>]
+![错误2](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误2.JPG)
 领料单规格表示多样化，甚至有时候出现错误。
-<br><img src="https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误3.JPG" width="300" height="300" alt="错误1"/><br/>]
+![错误3](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/工字钢表示错误3.JPG)
+![仓库规格表示不唯一](https://github.com/FrankZhou-jun/projectManagerAidedSystem/raw/main/images/仓库规格表示不唯一.jpg)
 当作者在库中查找给钢板型号时，竟然没有找到，可能有如下原因:
 1. 交接单出现错误，未及时纠正。
 2. 统计人员出现错误，录入信息出现错误。
